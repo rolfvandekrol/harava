@@ -1,0 +1,8 @@
+{
+  "name": "harava",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Rolf van de Krol <info@rolfvandekrol.nl>",
+  "license": "MIT",
+  "private": false
+}
