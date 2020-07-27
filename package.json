@@ -4,5 +4,8 @@
   "main": "index.js",
   "author": "Rolf van de Krol <info@rolfvandekrol.nl>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
 }
